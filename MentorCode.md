@@ -1,6 +1,6 @@
-
 ```js
-//This is the code (and teaching notes) for the Khan Academy lesson that mentors can look over. This can be readily pasted into the Khan Academy platform.
+//This is the code (and teaching notes) for the Khan Academy lesson that mentors can look over. 
+// This can be readily pasted into the Khan Academy platform.
 
 // Section 1 – Drawing – Mentor Demo
 // Draw point and line
@@ -33,7 +33,8 @@ rect(0,0,400,400);
 // Show background
 background(0, 13, 153);
 
-// Show overlapping - draw rectangle first, and then fill it. Point to a kid to give me number for color or size or etc.
+// Show overlapping - draw rectangle first, and then fill it. 
+//Point to a kid to give me number for color or size or etc.
 
 stroke(0, 255, 183);
 strokeWeight(28);
@@ -119,7 +120,8 @@ var bodyposY = 124;
 var eyeposX = bodyposX+205-175;
 var eyeposY = bodyposY+124-126;
 
-//What the computer should do on each refresh. This is a loop! What's in the loop? What's outside of the loop?
+//What the computer should do on each refresh. This is a loop! 
+//What's in the loop? What's outside of the loop?
 var draw = function() {
     
 //Make sure to put all the variables before the draw
