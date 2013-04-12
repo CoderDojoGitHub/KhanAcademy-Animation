@@ -1,4 +1,6 @@
-This is the code (and teaching notes) for the Khan Academy lesson that mentors can look over. This can be readily pasted into the Khan Academy platform.
+
+```js
+//This is the code (and teaching notes) for the Khan Academy lesson that mentors can look over. This can be readily pasted into the Khan Academy platform.
 
 // Section 1 – Drawing – Mentor Demo
 // Draw point and line
@@ -140,5 +142,5 @@ ellipse(175,126,eyesize,eyesize);
 ellipse(230,127,eyesize,eyesize);
 
 };
-
+```
 
