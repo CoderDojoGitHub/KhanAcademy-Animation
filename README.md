@@ -25,6 +25,9 @@ Note: capitalization matters! Semicolons too!
 
 - Draw a bezier curve
 
+   ```
+   bezier(x1, y1, cx1, cy1, cx2, cy2, x2, y2);
+   ```
 
 - Draw an ellipse
 
