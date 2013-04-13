@@ -157,3 +157,45 @@ http://www.khanacademy.org/cs/section-2-variables/1541110625
 - http://sandcastle.khanacademy.org/media/castles/jeresig:cs-exercises/exercises/cs_variables_1.html
 
 Example: http://www.khanacademy.org/cs/winston-coderdojo-part-21/1355580688
+
+
+
+## Animation Step 1
+
+- Frame Rate – how fast the computer presses restart: frameRate(10);
+- Draw loop
+
+   ```
+   var draw = function() { }
+   ```
+
+- http://www.khanacademy.org/cs/section-3-animation/1541400394
+- Play with putting different variables into the draw loop.
+- Play with frameRate
+
+**Challenge**
+
+- Make character move in one direction
+- Instead of random number, we want a direction. Which number should we change to make guy go to the left?
+- http://www.khanacademy.org/cs/section-3-animation-challenge/1541200948
+
+
+## Animation Step 2
+
+
+- Draw a wall somewhere.
+- Make character move toward wall.
+- If Statements
+  - Character change directions when hit wall.
+  - https://www.khanacademy.org/cs/section-4-if-statement/1541323643
+- Key press
+  - Winston change direction if you press a key.
+  - keyIsPressed && keyCode === RIGHT
+- http://www.khanacademy.org/cs/pong-level-2/1376893644
+
+
+**Challenges**
+
+- Character stands still. Only move if you press a key.
+- Character move up and down as well as left and right.
+- Draw a floor and make character bounce left and right.
